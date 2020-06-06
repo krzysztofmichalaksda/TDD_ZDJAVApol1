@@ -12,7 +12,7 @@ public class Square {
     }
 
     public double getPerimeter() {
-        return 2*base;
+        return 4*base;
     }
 
     public double getArea() {

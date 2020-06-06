@@ -25,7 +25,7 @@ public class Triangle {
     }
 
     public double getPerimeter() {
-        return 2*base + 2*height;
+        return base + firstArm + secondArm;
     }
 
     public double getArea() {
